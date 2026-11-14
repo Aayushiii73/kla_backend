@@ -1,0 +1,1 @@
+web: gunicorn kla_backend.wsgi
